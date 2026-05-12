@@ -2,7 +2,7 @@
 ### Windows Server 2025 · Azure Free Account · Identity & Access Management
 ---
 
-https://www.loom.com/share/598706fa4c9c433181072ba79a01366f
+<div style="position: relative; padding-bottom: 41.86046511627907%; height: 0;"><iframe src="https://www.loom.com/embed/598706fa4c9c433181072ba79a01366f" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"></iframe></div>
 
 ---
 
