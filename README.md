@@ -1,5 +1,8 @@
 # Lab 1 — Active Directory
 ### Windows Server 2025 · Azure Free Account · Identity & Access Management
+---
+
+https://www.loom.com/share/598706fa4c9c433181072ba79a01366f
 
 ---
 
