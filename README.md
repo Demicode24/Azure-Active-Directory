@@ -1,15 +1,9 @@
 # Lab 1 — Active Directory
 ### Windows Server 2025 · Azure Free Account · Identity & Access Management
 ---
+# Video walk-through
+https://www.loom.com/share/598706fa4c9c433181072ba79a01366f
 
-<div>
-    <a href="https://www.loom.com/share/598706fa4c9c433181072ba79a01366f">
-      <p>Active Directory Lab Setup and GPO Security - Watch Video</p>
-    </a>
-    <a href="https://www.loom.com/share/598706fa4c9c433181072ba79a01366f">
-      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/598706fa4c9c433181072ba79a01366f-d6d3e7ae10494cf4-full-play.gif#t=0.1">
-    </a>
-  </div>
 ---
 
 | Field | Value |
